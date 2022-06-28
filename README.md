@@ -1,9 +1,9 @@
 # Anomaly-Detection-in-Surveillance-Videos
 
-##Dataset
+## Dataset
 ShanghaiTech Campus Dataset (https://svip-lab.github.io/dataset/campus_dataset.html)
 
-##Setup
+## Setup
 
 For feature extraction we've followed this [**repo**](https://github.com/haofanwang/video-swin-transformer-pytorch) on default settings.
 
