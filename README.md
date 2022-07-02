@@ -1,5 +1,7 @@
 # Anomaly-Detection-in-Surveillance-Videos
 
+It contains the code for the following paper [**Anomaly detection in surveillance videos using transformer based attention model**](https://arxiv.org/abs/2206.01524)
+
 ## Dataset
 ShanghaiTech Campus Dataset (https://svip-lab.github.io/dataset/campus_dataset.html)
 
